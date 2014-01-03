@@ -1,0 +1,12 @@
+{
+  "name": "rw_clean_markup",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-copy": "latest",
+	"grunt-contrib-imagemin": "latest",
+	"grunt-contrib-autoprefixer": "latest"
+  }
+}
